@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[31m- filter method:  *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  Node(Leaf(),6,Node(Leaf(),8,Node(Leaf(),10,Leaf()))) did not equal Leaf() (TestSuite.scala:11)[0m[0m
+[0m[[0minfo[0m] [0m[31m- Append method:  *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  Node(Leaf(),7,Node(Leaf(),6,Node(Leaf(),8,Node(Leaf(),10,Node(Leaf(),4,Node(Leaf(),2,Leaf())))))) did not equal Leaf() (TestSuite.scala:15)[0m[0m
