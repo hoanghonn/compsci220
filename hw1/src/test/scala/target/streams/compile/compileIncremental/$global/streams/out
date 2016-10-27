@@ -1,0 +1,63 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(C:\Users\Hoang\hw1\src\test\scala\TestSuite.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(C:\Users\Hoang\hw1\src\test\scala\TestSuite.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\Hoang\hw1\src\test\scala\TestSuite.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Hoang\hw1\src\test\scala\TestSuite.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to C:\Users\Hoang\hw1\src\test\scala\target\scala-2.10\classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.12:component from component compiler for Scala 2.10.6[0m
+[0m[[0minfo[0m] [0m'compiler-interface' not yet compiled for Scala 2.10.6. Compiling...[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.10.6  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Hoang\AppData\Local\Temp\sbt_97348628[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre1.8.0_101\lib\resources.jar;C:\Program Files\Java\jre1.8.0_101\lib\rt.jar;C:\Program Files\Java\jre1.8.0_101\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_101\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_101\lib\jce.jar;C:\Program Files\Java\jre1.8.0_101\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_101\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_101\classes;C:\Users\Hoang\.sbt\boot\scala-2.10.6\lib\scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Hoang\.sbt\boot\scala-2.10.6\org.scala-sbt\sbt\0.13.12\xsbti\interface-0.13.12.jar;C:\Users\Hoang\AppData\Local\Temp\sbt_ce57fa\srcs\org.scala-sbt\compiler-interface\compiler-interface-0.13.12-sources.jar;C:\Users\Hoang\.sbt\boot\scala-2.10.6\lib\scala-compiler.jar;C:\Users\Hoang\.sbt\boot\scala-2.10.6\lib\jansi.jar;C:\Users\Hoang\.sbt\boot\scala-2.10.6\lib\jline.jar;C:\Users\Hoang\.sbt\boot\scala-2.10.6\lib\scala-reflect.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Hoang\AppData\Local\Temp\sbt_b99b45b9\xsbt\API.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Hoang\AppData\Local\Temp\sbt_b99b45b9\xsbt\Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Hoang\AppData\Local\Temp\sbt_b99b45b9\xsbt\Command.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Hoang\AppData\Local\Temp\sbt_b99b45b9\xsbt\Compat.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Hoang\AppData\Local\Temp\sbt_b99b45b9\xsbt\CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Hoang\AppData\Local\Temp\sbt_b99b45b9\xsbt\ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Hoang\AppData\Local\Temp\sbt_b99b45b9\xsbt\DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Hoang\AppData\Local\Temp\sbt_b99b45b9\xsbt\Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Hoang\AppData\Local\Temp\sbt_b99b45b9\xsbt\ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Hoang\AppData\Local\Temp\sbt_b99b45b9\xsbt\ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Hoang\AppData\Local\Temp\sbt_b99b45b9\xsbt\GlobalHelpers.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Hoang\AppData\Local\Temp\sbt_b99b45b9\xsbt\LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Hoang\AppData\Local\Temp\sbt_b99b45b9\xsbt\Log.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Hoang\AppData\Local\Temp\sbt_b99b45b9\xsbt\Message.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Hoang\AppData\Local\Temp\sbt_b99b45b9\xsbt\ScaladocInterface.scala[0m
+[0m[[0minfo[0m] [0m  Compilation completed in 9.865 s[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.12:component from component compiler for Scala 2.10.6[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 72d28734, interfacing (CompilerInterface) with Scala compiler version 2.10.6[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre1.8.0_101\lib\resources.jar;C:\Program Files\Java\jre1.8.0_101\lib\rt.jar;C:\Program Files\Java\jre1.8.0_101\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_101\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_101\lib\jce.jar;C:\Program Files\Java\jre1.8.0_101\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_101\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_101\classes;C:\Users\Hoang\.sbt\boot\scala-2.10.6\lib\scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Hoang\hw1\src\test\scala\target\scala-2.10\classes[0m
+[0m[[31merror[0m] [0mC:\Users\Hoang\hw1\src\test\scala\TestSuite.scala:1: not found: object Lists[0m
+[0m[[31merror[0m] [0mimport Lists._[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mC:\Users\Hoang\hw1\src\test\scala\TestSuite.scala:3: object scalatest is not a member of package org[0m
+[0m[[31merror[0m] [0mclass TestSuite extends org.scalatest.FunSuite {[0m
+[0m[[31merror[0m] [0m                            ^[0m
+[0m[[31merror[0m] [0mC:\Users\Hoang\hw1\src\test\scala\TestSuite.scala:4: not found: value test[0m
+[0m[[31merror[0m] [0m	test ("oddNumbers properly defined") {[0m
+[0m[[31merror[0m] [0m	^[0m
+[0m[[31merror[0m] [0mthree errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m

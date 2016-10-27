@@ -1,0 +1,31 @@
+[0m[[0minfo[0m] [0m[32mTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- oddNumbers properly defined[0m[0m
+[0m[[0minfo[0m] [0m[32m- method sumDouble makes right result with positive test[0m[0m
+[0m[[0minfo[0m] [0m[32m- method sumDouble makes right result with negative test q[0m[0m
+[0m[[0minfo[0m] [0m[32m- method removeZeroes does remove zero test 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- method removeZeroes does remove zero test 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- method countEvens have the right result[0m[0m
+[0m[[0minfo[0m] [0m[32m- method remove the Alternating with even string in the list[0m[0m
+[0m[[0minfo[0m] [0m[32m- method remove the Alternating with odd string in the list[0m[0m
+[0m[[0minfo[0m] [0m[32m- method remove the Alternating with 1 string in the list[0m[0m
+[0m[[0minfo[0m] [0m[32m- method isAscending is true with no repeated numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- method isAscending is false with no repeated numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- method isAscending is true with repeated numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- method isAscending is false with repeated numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- method isAscending is true with all same numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- method addSub works with 2 elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- method addSub works with 3 elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- method addSub works with 4 elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- method alternate works with Lists of 2 elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- method alternate works with Lists of 1 element[0m[0m
+[0m[[0minfo[0m] [0m[32m- method alternate works with Lists of n elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- method fromTo returns the correct result[0m[0m
+[0m[[0minfo[0m] [0m[32m- method fromTo returns the correct result 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- method insertOrdered inputs the correct spot[0m[0m
+[0m[[0minfo[0m] [0m[32m- method insertOrdered inputs the correct spot 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- method insertOrdered inputs the correct spot 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- method insertOrdered throws exception[0m[0m
+[0m[[0minfo[0m] [0m[32m- method sort return sorted list[0m[0m
+[0m[[0minfo[0m] [0m[32m- method sort return sorted list 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- method sort return sorted list 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- method sort return sorted list 4[0m[0m

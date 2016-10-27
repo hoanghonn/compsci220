@@ -1,0 +1,26 @@
+[0m[[0minfo[0m] [0m[32mTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- enqueue method 1: [0m[0m
+[0m[[0minfo[0m] [0m[32m- dequeue method 1: [0m[0m
+[0m[[0minfo[0m] [0m[32m- dequeue method 2: [0m[0m
+[0m[[0minfo[0m] [0m[32m- dequeue method 3: [0m[0m
+[0m[[0minfo[0m] [0m[32m- dequeue method 4: [0m[0m
+[0m[[0minfo[0m] [0m[32m- max method 1: [0m[0m
+[0m[[0minfo[0m] [0m[32m- max method 2: [0m[0m
+[0m[[0minfo[0m] [0m[32m- max method 3: [0m[0m
+[0m[[0minfo[0m] [0m[32m- max method 4: [0m[0m
+[0m[[0minfo[0m] [0m[32m- first method 1: [0m[0m
+[0m[[0minfo[0m] [0m[32m- first method 2: [0m[0m
+[0m[[0minfo[0m] [0m[32m- first method 3: [0m[0m
+[0m[[0minfo[0m] [0m[32m- rest method 1: [0m[0m
+[0m[[0minfo[0m] [0m[32m- rest method 2: [0m[0m
+[0m[[0minfo[0m] [0m[32m- rest method 3: [0m[0m
+[0m[[0minfo[0m] [0m[32m- rest method 4: [0m[0m
+[0m[[0minfo[0m] [0m[32m- nth method 1: [0m[0m
+[0m[[0minfo[0m] [0m[32m- nth method 2: [0m[0m
+[0m[[0minfo[0m] [0m[32m- nth method 3: [0m[0m
+[0m[[0minfo[0m] [0m[32m- nth method 4: [0m[0m
+[0m[[0minfo[0m] [0m[32m- map method 1: [0m[0m
+[0m[[0minfo[0m] [0m[32m- filter method 1: [0m[0m
+[0m[[0minfo[0m] [0m[32m- filter method 2: [0m[0m
+[0m[[0minfo[0m] [0m[32m- filter method 3: [0m[0m
+[0m[[0minfo[0m] [0m[32m- filter method 4: [0m[0m
