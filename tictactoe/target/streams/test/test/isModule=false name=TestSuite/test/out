@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0m[32mTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- A: [0m[0m
+[0m[[0minfo[0m] [0m[32m- B: [0m[0m
+[0m[[0minfo[0m] [0m[32m- C: [0m[0m
+[0m[[0minfo[0m] [0m[32m- D: [0m[0m
+[0m[[0minfo[0m] [0m[32m- E: [0m[0m
+[0m[[0minfo[0m] [0m[31m- F:  *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  None did not equal Some(X) (TestSuite.scala:87)[0m[0m
+[0m[[0minfo[0m] [0m[31m- G:  *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  None did not equal Some(O) (TestSuite.scala:91)[0m[0m
+[0m[[0minfo[0m] [0m[31m- K:  *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  None did not equal Some(X) (TestSuite.scala:95)[0m[0m
