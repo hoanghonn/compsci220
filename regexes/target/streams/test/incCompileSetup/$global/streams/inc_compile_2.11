@@ -1,0 +1,229 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -feature
+3 -> -Xfatal-warnings
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+18 items
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$1.class
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$10.class
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$11.class
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$12.class
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$13.class
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$14.class
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$15.class
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$16.class
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$17.class
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$2.class
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$3.class
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$4.class
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$5.class
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$6.class
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$7.class
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$8.class
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$9.class
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite.class
+binary dependencies:
+5 items
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Program Files\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Users\Hoang\.ivy2\cache\edu.umass.cs\compsci220_2.11\jars\compsci220_2.11-1.3.1.jar
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Users\Hoang\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Users\Hoang\.ivy2\cache\org.scalactic\scalactic_2.11\bundles\scalactic_2.11-3.0.0.jar
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> C:\Users\Hoang\.ivy2\cache\org.scalatest\scalatest_2.11\bundles\scalatest_2.11-3.0.0.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+1 items
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> Regexes$
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+18 items
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> TrivialTestSuite
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> TrivialTestSuite$$anonfun$1
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> TrivialTestSuite$$anonfun$10
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> TrivialTestSuite$$anonfun$11
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> TrivialTestSuite$$anonfun$12
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> TrivialTestSuite$$anonfun$13
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> TrivialTestSuite$$anonfun$14
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> TrivialTestSuite$$anonfun$15
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> TrivialTestSuite$$anonfun$16
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> TrivialTestSuite$$anonfun$17
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> TrivialTestSuite$$anonfun$2
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> TrivialTestSuite$$anonfun$3
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> TrivialTestSuite$$anonfun$4
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> TrivialTestSuite$$anonfun$5
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> TrivialTestSuite$$anonfun$6
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> TrivialTestSuite$$anonfun$7
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> TrivialTestSuite$$anonfun$8
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> TrivialTestSuite$$anonfun$9
+used names:
+72 items
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> $org_scalatest_assert_macro_expr
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> $org_scalatest_assert_macro_left
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> $org_scalatest_assert_macro_right
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> <byname>
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> <init>
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> <repeated>
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> ==
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> Any
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> Assertion
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> AssertionsHelper
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> Bool
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> Boolean
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> CharSequence
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> FunSuite
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> Int
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> Matcher
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> Pattern
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> Position
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> Predef
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> Prettifier
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> Regex
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> RegexLike
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> Regexes
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> String
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> Tag
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> TrivialTestSuite
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> Unit
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> assert
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> assertionsHelper
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> b1
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> b2
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> b3
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> binaryMacroBool
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> c1
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> c2
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> comment
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> d1
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> d2
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> date
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> default
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> e
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> evenParity
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> f
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> g
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> h1
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> h2
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> h3
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> here
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> hw
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> macroAssert
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> matcher
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> matches
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> matching
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> notAlphanumeric
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> numberPhrase
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> org
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> package
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> pattern
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> phone
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> regex
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> roman
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> scala
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> scalactic
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> scalatest
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> simpleMacroBool
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> source
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> test
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> time
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> util
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> x1
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> x2
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> zip
+product stamps:
+18 items
+C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$1.class -> lastModified(1480979352382)
+C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$10.class -> lastModified(1480979352405)
+C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$11.class -> lastModified(1480979352410)
+C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$12.class -> lastModified(1480979352416)
+C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$13.class -> lastModified(1480979352421)
+C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$14.class -> lastModified(1480979352427)
+C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$15.class -> lastModified(1480979352432)
+C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$16.class -> lastModified(1480979352439)
+C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$17.class -> lastModified(1480979352445)
+C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$2.class -> lastModified(1480979352450)
+C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$3.class -> lastModified(1480979352457)
+C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$4.class -> lastModified(1480979352462)
+C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$5.class -> lastModified(1480979352468)
+C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$6.class -> lastModified(1480979352472)
+C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$7.class -> lastModified(1480979352478)
+C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$8.class -> lastModified(1480979352485)
+C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite$$anonfun$9.class -> lastModified(1480979352490)
+C:\Users\Hoang\workspace\compsci220\regexes\target\scala-2.11\test-classes\TrivialTestSuite.class -> lastModified(1480979352339)
+source stamps:
+1 items
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> hash(750463ff52da66f4501c4c8be2067b969cc163e7)
+binary stamps:
+5 items
+C:\Program Files\Java\jre1.8.0_111\lib\rt.jar -> lastModified(1478645461973)
+C:\Users\Hoang\.ivy2\cache\edu.umass.cs\compsci220_2.11\jars\compsci220_2.11-1.3.1.jar -> lastModified(1475738282000)
+C:\Users\Hoang\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
+C:\Users\Hoang\.ivy2\cache\org.scalactic\scalactic_2.11\bundles\scalactic_2.11-3.0.0.jar -> lastModified(1470060492000)
+C:\Users\Hoang\.ivy2\cache\org.scalatest\scalatest_2.11\bundles\scalatest_2.11-3.0.0.jar -> lastModified(1470060705000)
+class names:
+5 items
+C:\Program Files\Java\jre1.8.0_111\lib\rt.jar -> java.lang.CharSequence
+C:\Users\Hoang\.ivy2\cache\edu.umass.cs\compsci220_2.11\jars\compsci220_2.11-1.3.1.jar -> hw.regex.RegexLike
+C:\Users\Hoang\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.Unit
+C:\Users\Hoang\.ivy2\cache\org.scalactic\scalactic_2.11\bundles\scalactic_2.11-3.0.0.jar -> org.scalactic.Bool$
+C:\Users\Hoang\.ivy2\cache\org.scalatest\scalatest_2.11\bundles\scalatest_2.11-3.0.0.jar -> org.scalatest.FunSuite
+internal apis:
+1 items
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwgmrvpQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDEFAVGdAAVdW5jb25zdHJhaW5lZEVxdWFsaXR5c3EAfgALCpV2z3QAEmNvbnZlcnRUb0VxdWFsaXplcnVxAH4ACQAAAHJzcQB+AAu+g0exdAAGYXNzZXJ0c3EAfgAL961HNHQAAWVzcQB+AAsPVGJMdAAHc3VjY2VlZHNxAH4AC7eTl7d0AAZub3RpZnlzcQB+AAuyi/BwdAAmbG93UHJpb3JpdHlDb252ZXJzaW9uQ2hlY2tlZENvbnN0cmFpbnRzcQB+AAsC2RV8dAAQQXNzZXJ0aW9uc0hlbHBlcnNxAH4AC2EzWId0AAZjYW5jZWxzcQB+AAsuk+2/dAAEdGVzdHNxAH4AC0rNj3p0ABFleGVjdXRlJGRlZmF1bHQkMnNxAH4AC6WlzGJ0AAlpbnRlcmNlcHRzcQB+AAsoDg5rdAAEZmFpbHNxAH4AC9K9h7d0AARuYW1lc3EAfgALvxtFNHQAFGFzc2VydERvZXNOb3RDb21waWxlc3EAfgALqxL+uHQAEWV4ZWN1dGUkZGVmYXVsdCQ0c3EAfgALdzITunQAB2V4ZWN1dGVzcQB+AAtuyD+gdAAEd2FpdHNxAH4ACyoo2+N0AAt0ZXN0RGF0YUZvcnNxAH4AC/uDxdB0ABNjcmVhdGVDYXRjaFJlcG9ydGVyc3EAfgALrSc45nQAAmIyc3EAfgALWS0ahXQACXN0eWxlTmFtZXNxAH4AC2cHL2l0AA0kYXNJbnN0YW5jZU9mc3EAfgALx4d2inQAAmgzc3EAfgALjSQsV3QAEWV4ZWN1dGUkZGVmYXVsdCQzc3EAfgAL3pMdMXQAAmIzc3EAfgALF0gS53QACWNvbmZpZ01hcHNxAH4ACxoaa7t0AAZlcXVhbHNzcQB+AAsBMu9AdAAsY29udmVydEVxdWl2YWxlbmNlVG9BVG9CQ29udmVyc2lvbkNvbnN0cmFpbnRzcQB+AAt5XuCjdAAPZGVmYXVsdEVxdWFsaXR5c3EAfgAL+jRf6nQAImNvbnZlcnRFcXVpdmFsZW5jZVRvQVRvQkNvbnN0cmFpbnRzcQB+AAulydF4dAAEdGFnc3NxAH4AC/XeM1h0AAxhc0luc3RhbmNlT2ZzcQB+AAtYCzcFdAAFYWxlcnRzcQB+AAsDJUFodAADcnVuc3EAfgAL8ARAa3QAAWZzcQB+AAv3E0xBdAAGc2NvcGVzc3EAfgALpX3uyXQAA3Bvc3NxAH4AC/HyOQN0AAxzeW5jaHJvbml6ZWRzcQB+AAvoO3b/dAAOYXNzZXJ0Q29tcGlsZXNzcQB+AAu5+ouGdAAMYXNzZXJ0VGhyb3dzc3EAfgALCe8i+XQADSRpc0luc3RhbmNlT2ZzcQB+AAuaR0vGdAAEdHJhcHNxAH4AC75K5lV0ABV0ZXN0RGF0YUZvciRkZWZhdWx0JDJzcQB+AAut6smpdAAMYXNzZXJ0UmVzdWx0c3EAfgAL6/c+13QAAmMyc3EAfgALXXZ0PHQAAmIxc3EAfgAL7Qf+AnQABHRleHRzcQB+AAuS29JDdAAsY29udmVydEVxdWl2YWxlbmNlVG9CVG9BQ29udmVyc2lvbkNvbnN0cmFpbnRzcQB+AAs1oqWBdAACeDJzcQB+AAuYUre0dAARZXhlY3V0ZSRkZWZhdWx0JDdzcQB+AAsiSmPudAAVdHlwZUNoZWNrZWRDb25zdHJhaW50c3EAfgALwpcfDXQAAyE9PXNxAH4AC9YHQ9V0AARpbmZvc3EAfgAL5uXgF3QACW5vdGlmeUFsbHNxAH4AC3/X9uV0AAt3aXRoRml4dHVyZXNxAH4AC1qsLgB0AAdydW5UZXN0c3EAfgALIf/+3HQADGlzSW5zdGFuY2VPZnNxAH4ACwgdaHZ0AAh3aXRoQ2x1ZXNxAH4AC6l9Q6x0ABBhc3NlcnRpb25zSGVscGVyc3EAfgAL7+CnbXQAAmgyc3EAfgALDv51xXQAEWV4ZWN1dGUkZGVmYXVsdCQ2c3EAfgALfWi9MHQAD2Fzc2VydFR5cGVFcnJvcnNxAH4AC+GhhWh0AAZtYXJrdXBzcQB+AAsAV38jdAAIbGVmdFNpZGVzcQB+AAvvh+8tdAACYzFzcQB+AAspWsXpdAAGPGluaXQ+c3EAfgALOVI2cHQAC21hY3JvQXNzdW1lc3EAfgALQ3+olXQAD3J1bk5lc3RlZFN1aXRlc3NxAH4AC0fG5Zl0AAVhcHBseXNxAH4AC9GBdUx0AAlFcXVhbGl6ZXJzcQB+AAscbxOzdAABZ3NxAH4ACwFDE090ABtuZXdBc3NlcnRpb25GYWlsZWRFeGNlcHRpb25zcQB+AAsTiKqwdAAEbm90ZXNxAH4AC8Je4Z90AAJkMnNxAH4AC/m1zZh0AAI9PXNxAH4AC27YUAh0AAVjbG9uZXNxAH4AC4Vxmw10AAxuZXN0ZWRTdWl0ZXNzcQB+AAvDs/3IdAAGYXNzdW1lc3EAfgALg8Ol23QABiRpbml0JHNxAH4AC1+JpKR0ACBsb3dQcmlvcml0eVR5cGVDaGVja2VkQ29uc3RyYWludHNxAH4ACyf0QTt0AAJoMXNxAH4AC1x5v8Z0AAxyZWdpc3RlclRlc3RzcQB+AAtrH5CmdAARZXhlY3V0ZSRkZWZhdWx0JDVzcQB+AAsyy5yRdAACeDFzcQB+AAuDW4GGdAADPT09c3EAfgALXcJnanQAGG5ld1Rlc3RDYW5jZWxlZEV4Y2VwdGlvbnNxAH4ACyS900t0AAh0b1N0cmluZ3NxAH4AC/HKjiN0AAl0ZXN0TmFtZXNzcQB+AAt/LPFrdAAPeWVPbGRlVGVzdE5hbWVzc3EAfgAL3rUf73QAEWV4ZWN1dGUkZGVmYXVsdCQxc3EAfgALsgaHXHQAAiE9c3EAfgALHWMZZHQACGdldENsYXNzc3EAfgALXyJNMHQAE3JlZ2lzdGVySWdub3JlZFRlc3RzcQB+AAuAJ3RfdAAIdGVzdHNGb3JzcQB+AAseg9l1dAAIcnVuVGVzdHNzcQB+AAuYAT+6dAARcGVuZGluZ1VudGlsRml4ZWRzcQB+AAs7PwK3dAACZDFzcQB+AAu9CiM5dAARZXhwZWN0ZWRUZXN0Q291bnRzcQB+AAvCvododAAQVHJpdmlhbFRlc3RTdWl0ZXNxAH4AC7jc4qd0AAhyZXJ1bm5lcnNxAH4AC+1ZfBZ0ACJjb252ZXJ0RXF1aXZhbGVuY2VUb0JUb0FDb25zdHJhaW50c3EAfgALsNNMUXQAAm5lc3EAfgALzBRdKHQAEUNoZWNraW5nRXF1YWxpemVyc3EAfgALD+btPnQAB3BlbmRpbmdzcQB+AAsZDRbudAAGaWdub3Jlc3EAfgALrado9XQAC21hY3JvQXNzZXJ0c3EAfgALTOSqpnQAAmVxc3EAfgALYwFNonQAGmNvbnZlcnRUb0NoZWNraW5nRXF1YWxpemVyc3EAfgALBgxTwnQACU5vQXJnVGVzdHNxAH4AC1M6SCR0AAIjI3NxAH4AC023xrR0AAhmaW5hbGl6ZXNxAH4AC6UbPPx0ABtjb252ZXJzaW9uQ2hlY2tlZENvbnN0cmFpbnRzcQB+AAtPlVa2dAAIaGFzaENvZGVzcQB+AAsyhmcJdAAHc3VpdGVJZHNxAH4AC9mFCTt0AAlzdWl0ZU5hbWVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgD/eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ANV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAnc2NhbGEucmVmbGVjdC5tYWNyb3MuaW50ZXJuYWwubWFjcm9JbXBsc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+ARhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4A/0wACWluaGVyaXRlZHEAfgD/TAAHcGFyZW50c3EAfgD/eHEAfgEdc3EAfgEYdXEAfgD6AAAAAHNxAH4BGHVxAH4A+gAAAABzcQB+ARh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAEHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ARx0AAhGdW5TdWl0ZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4BHHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAADb3Jnc3EAfgE1dAAJc2NhbGF0ZXN0c3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ATZzcQB+ASl0AAxGdW5TdWl0ZUxpa2VxAH4BL3NxAH4BKXQAC0RvY3VtZW50aW5ncQB+AS9zcQB+ASl0AAhBbGVydGluZ3EAfgEvc3EAfgEpdAAJTm90aWZ5aW5ncQB+AS9zcQB+ASl0AAlJbmZvcm1pbmdxAH4BL3NxAH4BKXQAEFRlc3RSZWdpc3RyYXRpb25xAH4BL3NxAH4BKXQACVRlc3RTdWl0ZXEAfgEvc3EAfgEpdAAFU3VpdGVxAH4BL3NxAH4BKXQADFNlcmlhbGl6YWJsZXNxAH4BLXNxAH4BMHVxAH4BMwAAAAJzcQB+ATV0AAVzY2FsYXEAfgE8c3EAfgEpcQB+AU5zcQB+AS1zcQB+ATB1cQB+ATMAAAADc3EAfgE1dAAEamF2YXNxAH4BNXQAAmlvcQB+ATxzcQB+ASl0AApBc3NlcnRpb25zcQB+AS9zcQB+ASl0AAxUcmlwbGVFcXVhbHNzcQB+AS1zcQB+ATB1cQB+ATMAAAADc3EAfgE1dAADb3Jnc3EAfgE1dAAJc2NhbGFjdGljcQB+ATxzcQB+ASl0ABNUcmlwbGVFcXVhbHNTdXBwb3J0cQB+AWBzcQB+ASl0AAZPYmplY3RzcQB+AS1zcQB+ATB1cQB+ATMAAAADc3EAfgE1cQB+AVlzcQB+ATV0AARsYW5ncQB+ATxzcQB+ASl0AANBbnlxAH4BT3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFY0T9/q3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEpDOlxVc2Vyc1xIb2FuZ1x3b3Jrc3BhY2VcY29tcHNjaTIyMFxyZWdleGVzXHRhcmdldFxzY2FsYS0yLjExXHRlc3QtY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHUEY/9S2mb0UBxMi+IGe5acwWPn
+external apis:
+1 items
+Regexes$ -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwY/NBXgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAdc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwhCE9qXQABm5vdGlmeXNxAH4ADI39gK10AAR3YWl0c3EAfgAMMwAELnQADSRhc0luc3RhbmNlT2ZzcQB+AAwpuqESdAADemlwc3EAfgAMF1VpgXQABmVxdWFsc3NxAH4ADKWThCR0AAxhc0luc3RhbmNlT2ZzcQB+AAwWbGeLdAAMc3luY2hyb25pemVkc3EAfgAMTfinXXQADSRpc0luc3RhbmNlT2ZzcQB+AAzNbmV5dAAJbm90aWZ5QWxsc3EAfgAM1YcSeHQADGlzSW5zdGFuY2VPZnNxAH4ADKONRmh0AAdSZWdleGVzc3EAfgAM/sBrdXQABGRhdGVzcQB+AAxqwRLqdAAKZXZlblBhcml0eXNxAH4ADDGqgjN0AAI9PXNxAH4ADESVjWF0AAVjbG9uZXNxAH4ADH/EVLN0AAdjb21tZW50c3EAfgAM6mPn+XQACHRvU3RyaW5nc3EAfgAMLG0YLXQAAiE9c3EAfgAM6EoIRnQABXJvbWFuc3EAfgAMUBinD3QABHRpbWVzcQB+AAxmQQgSdAAIZ2V0Q2xhc3NzcQB+AAxiUyAhdAAPbm90QWxwaGFudW1lcmljc3EAfgAMb7Z1KHQAAm5lc3EAfgAMy0n0MHQAAmVxc3EAfgAMl+w7/nQADG51bWJlclBocmFzZXNxAH4ADAd42md0AAIjI3NxAH4ADFPyTJR0AAhmaW5hbGl6ZXNxAH4ADNg4JMV0AAVwaG9uZXNxAH4ADIZDp790AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AI3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AaHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBRTAAJaW5oZXJpdGVkcQB+AFFMAAdwYXJlbnRzcQB+AFF4cQB+AG1zcQB+AGh1cQB+AEwAAAAAc3EAfgBodXEAfgBMAAAAAHNxAH4AaHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AbHQACVJlZ2V4TGlrZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AbHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAACaHdzcQB+AIV0AAVyZWdleHNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCGc3EAfgB5dAAGT2JqZWN0c3EAfgB9c3EAfgCAdXEAfgCDAAAAA3NxAH4AhXQABGphdmFzcQB+AIV0AARsYW5ncQB+AIxzcQB+AHl0AANBbnlzcQB+AH1zcQB+AIB1cQB+AIMAAAACc3EAfgCFdAAFc2NhbGFxAH4AjHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFY0T8d3nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEVDOlxVc2Vyc1xIb2FuZ1x3b3Jrc3BhY2VcY29tcHNjaTIyMFxyZWdleGVzXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQlVk19ZY3l6AQysDg98MmZgJ8QqA==
+source infos:
+1 items
+C:\Users\Hoang\workspace\compsci220\regexes\src\test\scala\test.scala -> 
+AAAAAAAAAAA=
+compilations:
+16 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWM1EYYt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEhvYW5nXHdvcmtzcGFjZVxjb21wc2NpMjIwXHJlZ2V4ZXNcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWM2ugjV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEhvYW5nXHdvcmtzcGFjZVxjb21wc2NpMjIwXHJlZ2V4ZXNcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWM2w7bd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEhvYW5nXHdvcmtzcGFjZVxjb21wc2NpMjIwXHJlZ2V4ZXNcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWM20HrF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEhvYW5nXHdvcmtzcGFjZVxjb21wc2NpMjIwXHJlZ2V4ZXNcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNBfD4t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEhvYW5nXHdvcmtzcGFjZVxjb21wc2NpMjIwXHJlZ2V4ZXNcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNBj9jl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEhvYW5nXHdvcmtzcGFjZVxjb21wc2NpMjIwXHJlZ2V4ZXNcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNB6IuN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEhvYW5nXHdvcmtzcGFjZVxjb21wc2NpMjIwXHJlZ2V4ZXNcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNCCt5d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEhvYW5nXHdvcmtzcGFjZVxjb21wc2NpMjIwXHJlZ2V4ZXNcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNCDB4t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEhvYW5nXHdvcmtzcGFjZVxjb21wc2NpMjIwXHJlZ2V4ZXNcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNCFtqF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEhvYW5nXHdvcmtzcGFjZVxjb21wc2NpMjIwXHJlZ2V4ZXNcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNCGav51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEhvYW5nXHdvcmtzcGFjZVxjb21wc2NpMjIwXHJlZ2V4ZXNcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNCdVg91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEhvYW5nXHdvcmtzcGFjZVxjb21wc2NpMjIwXHJlZ2V4ZXNcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNClTkF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEhvYW5nXHdvcmtzcGFjZVxjb21wc2NpMjIwXHJlZ2V4ZXNcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNClhgN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEhvYW5nXHdvcmtzcGFjZVxjb21wc2NpMjIwXHJlZ2V4ZXNcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNCojhd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEhvYW5nXHdvcmtzcGFjZVxjb21wc2NpMjIwXHJlZ2V4ZXNcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABLw==
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNE/f6t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXEhvYW5nXHdvcmtzcGFjZVxjb21wc2NpMjIwXHJlZ2V4ZXNcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABLw==
